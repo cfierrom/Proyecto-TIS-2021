@@ -1,0 +1,253 @@
+.contenedor-login{
+    width: 500px;
+    height: 100%;
+    border: 1px solid;
+    margin-top: 50px;
+    background-color: white;
+}
+
+.margen{
+    margin: 25px 25px 25px 25px;
+}
+
+h1, h2, h5, p{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.reg{
+    margin: 10px 0px 10px 0px;
+}
+
+._a{
+    width: 280px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.658);
+    color: black;
+    border-style: solid;
+    border-width: thick;
+    border-color: black;
+    font-weight: 600;
+    font-size: x-large;
+}
+
+.contenedor{
+    padding: 8%;
+}
+
+.fondoacceso{
+    background-image: url('accesoadm.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 4%;
+    min-height: 877px;
+}
+
+.fondoportal{
+    background-image: url('edificios.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 877px;
+}
+
+.capacontainer{
+    background-color: rgba(255, 255, 255, 0.521);
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 350%;
+}
+
+.subtitulo{
+    font-size: 200%;
+}
+
+footer{
+    text-align: center;
+    padding-bottom: 102px;
+}
+
+.textofooter{
+    font-size: 160%;
+    font-weight: 700;
+}
+
+.linkfooter{
+    text-decoration: underline;
+    font-size: 130%;
+    color: blue;
+}
+
+.copy{
+    position: relative;
+    top: 3px;
+}
+
+.iconousuario{
+    position: relative;
+    top: 8px;
+}
+
+.navbarlinks{
+    color: black;
+}
+
+.logotitulo{
+    position: relative;
+    left: 33%;
+    width: 30%;
+    height: 80px;
+}
+
+.contenedor_envivo{
+    padding: 3%;
+}
+
+.contenedor_datosenvivo{
+    background-color: rgba(255, 255, 255, 0.808);
+    border-style: solid;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+h4{
+    text-align: center;
+    font-size: 300%;
+}
+
+h3{
+    padding-top: 1%;
+    font-size: 25px;
+    padding-left: 10%;
+}
+
+.containerinfoenvivo{
+    background-color: rgba(255, 255, 255, 0.521);
+    border-style: solid;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+.textofooterenvivo{
+    font-size: 120%;
+    font-weight: 700;
+}
+
+.linkfooterenvivo{
+    text-decoration: underline;
+    font-size: 110%;
+    color: blue;
+}
+
+.copyenvivo{
+    position: relative;
+    top: 5px;
+}
+
+.footerenvivo{
+    text-align: center;
+    margin-top: 3.5%;
+    padding-bottom: 69px;
+}
+
+.cantidad_envivo{
+    font-size: 500%;
+}
+
+.fondodatosanteriores{
+    background-image: url('fondo.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 877px;
+}
+
+.contenedor_datosanteriores{
+    background-color: rgba(255, 255, 255, 0.808);
+    border-style: solid;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.boton button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(26, 25, 25);
+}
+
+.logodatosant{
+    position: relative;
+    left: 43%;
+    width: 12%;
+}
+
+.margendatosant{
+    padding-left: 11%;
+}
+
+.fecha_datosant{
+    position: relative;
+    left: 80%;
+    margin-top: 2%;    
+    margin-bottom: 3%;
+}
+
+.margen_fecha{
+    padding-left: 30%;
+}
+
+.buscar{
+    width: 50%;
+    background-color: black;
+    color: white;
+}
+
+.edificios_datosant{
+    width: 50%;
+}
+
+#dia{
+    display: none;
+    width: 50%;
+    margin-bottom: 5%;
+}
+
+#semana{
+    display: none;
+    width: 50%;
+    margin-bottom: 5%;
+}
+
+#mes{
+    display: none;
+    width: 50%;
+    margin-bottom: 5%;
+}
+
+.botongrafico{
+    color: rgb(255, 255, 255);
+    background-color: rgb(26, 25, 25);
+    margin-left: 2%;
+}
+
+#graph{
+    display: none;
+}
+
+.desc{
+    color: rgb(112, 111, 111);
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    padding: 15px 10px 15px 10px;
+    border: solid 1px;
+}
